@@ -1,0 +1,16 @@
+2025-04-20 09:55:40,420 - __main__ - INFO - Бот запущен.
+2025-04-20 09:55:41,940 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2025-04-20 09:55:41,940 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-20 09:55:41,941 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2025-04-20 09:55:43,671 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2025-04-20 09:55:43,672 - pyrogram.connection.connection - INFO - Disconnected
+2025-04-20 09:55:43,682 - pyrogram.connection.connection - INFO - Connecting...
+2025-04-20 09:55:43,682 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2025-04-20 09:55:43,683 - pyrogram.session.session - INFO - NetworkTask started
+2025-04-20 09:55:44,279 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2025-04-20 09:55:44,279 - pyrogram.session.session - INFO - Device: CPython 3.12.7 - Pyrogram 2.0.106
+2025-04-20 09:55:44,280 - pyrogram.session.session - INFO - System: Windows 11 (en)
+2025-04-20 09:55:44,280 - pyrogram.session.session - INFO - Session started
+2025-04-20 09:55:44,280 - pyrogram.session.session - INFO - PingTask started
+2025-04-20 09:55:55,087 - pyrogram.dispatcher - INFO - Started 12 HandlerTasks
+2025-04-20 09:55:56,361 - __main__ - INFO - Клиент успешно запущен.

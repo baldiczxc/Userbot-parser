@@ -1,0 +1,9 @@
+aiogram==2.23.1
+pyrogram==2.0.106
+g4f
+asyncpg
+psycopg2
+passlib
+aiohttp
+shutil
+importlib
